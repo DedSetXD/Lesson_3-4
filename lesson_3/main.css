@@ -1,0 +1,22 @@
+.all{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: silver;}
+.bg-darkb-base {background: darkblue;}
+.w920{width: 920px;}
+.h300{height: 300px;}
+.mg-l{margin-left: 450px}
+.mg-r{margin-right: 450px}
+.mg-t{margin-top: -30px}
+.mg-l-min{margin-left: 200px}
+.mg-r-min{margin-right: 200px}
+.bg-cb-base{background: cornflowerblue;}
+.bg-a-base{background: aqua;}
+.bg-bvl-base{background: blueviolet;}
+.h200{height: 200px;}
+.w320{width:320px;}
+.h700{height: 700px;}
+.w600{width: 600px;}
+.bg-b-base{background: blue;}
+.disp-fl-c{display: flex;align-items: center;justify-content: center;}
