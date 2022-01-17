@@ -1,0 +1,23 @@
+.all{
+display: flex;
+flex-wrap: wrap;
+    height: 1400px;}
+.w1920{width: 1920px}
+.w600{width: 600px}
+.w1000{width: 1245px}
+.h300{height: 300px}
+.h440{height: 440px}
+.h900{height: 900px}
+.bg-red{background:red }
+.bg-sv{background: silver}
+.bg-br{background: brown}
+.bg-or{background: orange}
+.disp-fl-c{display: flex;
+align-items: center;
+    justify-content: center;}
+.mr-l{margin-left: 40px}
+.mr-r{margin-right: 40px}
+.mr-t{margin-top:20px ;}
+.mr-b{margin-bottom:20px ;}
+.b_bs{border: 3px solid black;
+    box-sizing: border-box;}
